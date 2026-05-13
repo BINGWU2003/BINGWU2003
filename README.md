@@ -1,5 +1,6 @@
 <p align="center">
   <a href="https://hujiachengme.netlify.app/">me</a> .
+  <a href="https://hujiachengme.netlify.app/works">works</a> .
   <a href="https://hujiacheng-blog.netlify.app">blog</a> .
   <a href="https://github.com/BINGWU2003">github</a> .
   <a href="mailto:hujiacheng2003@163.com">email</a>
